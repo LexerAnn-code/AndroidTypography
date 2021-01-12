@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Typography" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+<!-- Typography-->
+        <item name="textAppearanceHeadline5">@style/TextAppearance.Typography.Headline5</item>-->
+        <item name="textAppearanceHeadline4">@style/TextAppearance.Typography.Headline4</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.Typography.Headline6</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Typography.Body1</item>
+        <item name="textAppearanceButton">@style/TextAppearance.Typography.Button</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.Typography.Overline</item>
+
+
+    </style>
+
+</resources>

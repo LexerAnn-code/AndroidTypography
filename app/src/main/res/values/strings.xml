@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Typography</string>
+    <string name="sign_up_message1">See what\'s happening</string>
+    <string name="sign_up_message2">in the world right now.</string>
+    <string name="button_text">Create account</string>
+    <string name="signup">Have an account already? Login</string>
+</resources>

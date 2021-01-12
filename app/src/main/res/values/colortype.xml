@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Apply to individual button components-->
+    <style name="Theme.Typography.ButtonColor" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/button_color</item>
+        
+    </style>
+    
+</resources>
